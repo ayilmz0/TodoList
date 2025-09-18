@@ -9,4 +9,5 @@
 .card {
   max-width: 600px;
   margin: auto;
+  zoom: 0.9;
 }
