@@ -1,0 +1,12 @@
+.delete-item{
+    color: red;
+}
+
+.delete-item:hover{
+    color: rgb(0, 0, 0);
+}
+
+.card {
+  max-width: 600px;
+  margin: auto;
+}
